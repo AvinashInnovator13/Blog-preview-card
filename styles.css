@@ -21,7 +21,7 @@ main{
     padding: 15px;
     border-radius: 15px;
     background-color: hsl(0, 0%, 100%);
-    width: 300px;
+    width: 350px;
     box-shadow: 10px 10px black ;
 }
 
@@ -61,11 +61,12 @@ h1{
 }
 .child2 p{
     color: hsl(0, 0%, 42%);
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .child2 h1, h5, .discription{
     padding-top: 10px;
+    line-height: 25px;
 }
 
 .child2 h1:hover{
@@ -90,9 +91,9 @@ h1{
     padding-top: 0.2rem;
 }
 
-@media only screen and (max-width: 380px){
+@media only screen and (max-width: 376px){
     main{
-        width: 250px;
+        width: 320px;
     }
     
     
