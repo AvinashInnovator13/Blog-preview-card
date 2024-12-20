@@ -33,11 +33,6 @@ h1{
 
 /* First Section styling */
 
-.child1{
-    width: 100%;
-    margin: auto;
-}
-
 .child1 img{
     width: 100%;
     margin-bottom: 13px;
@@ -52,7 +47,7 @@ h1{
     background-color: hsl(47, 88%, 63%);
     width: 35%;
     height: 30px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .child2 div p{
@@ -61,7 +56,6 @@ h1{
 }
 .child2 p{
     color: hsl(0, 0%, 42%);
-    font-size: 16px;
 }
 
 .child2 h1, h5, .discription{
